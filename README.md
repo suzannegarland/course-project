@@ -1,7 +1,7 @@
 course-project
 ==============
 
-This assinment is based on the Human Activity Recognition Using Smartphones Data Set available from
+This assignment is based on the Human Activity Recognition Using Smartphones Data Set available from
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 The R script run_analysis.R creates a tidy data set that combines the training and test groups
 into one dataset for analysis. It also summarizes the data, computing means by activity and subject
